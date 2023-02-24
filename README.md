@@ -1,7 +1,7 @@
 ﻿# Omnigrok
 This is the code repo for the paper: ["Omnigrok: Grokking Beyond Algorithmic Data"](https://openreview.net/forum?id=zDiHoIWa0q1), accpeted in ICLR 2023 as spotlight.  We elucidate [the grokking phenomenon](https://arxiv.org/abs/2201.02177) from the perspective of loss landscapes, and show that grokking can not only happen for algorithmic datasets and toy teacher-students setups, but also for standard machine learning datasets (e.g., MNIST, IMDb movie reviews, QM9 molecules).
 
-The examples used in this paper are relatively small-scale. We also make our codes as minimal as possible: each example is self-consistent, kept in a single folder. 
+The examples used in this paper are relatively small-scale. We make our codes as minimal as possible: each example is self-consistent, kept in a single folder. 
 |Examples| Figure in [paper](https://openreview.net/forum?id=zDiHoIWa0q1) | Folder |
 |--|--|--|
 |Teacher-student|Figure 2| ./teacher-student|
